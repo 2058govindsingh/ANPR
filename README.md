@@ -60,15 +60,15 @@ The following describes the software requirements of the application:
 
 ● Python Programming Language:
 
-  ● OpenCV 
+    ● OpenCV 
   
-  ● Numpy
+    ● Numpy
   
-  ● Matplotlib
+    ● Matplotlib
   
-  ● EasyOCR
+    ● EasyOCR
   
-  ● Scikit-image
+    ● Scikit-image
   
 ## STAGES
 
